@@ -14,7 +14,7 @@ The scripts for generating the results of the ML solutions in the paper. This sc
 	b. https://deepsense6g.net/vision-aided-beam-prediction/
 2. Download (or clone) the repository into a directory
 3. Extract the dataset into the repository directory 
-4. Format the data as shown in the example csv files
+4. Use the downsample_pwr_gen_train_test_data.py code to generate the train, test and validation csv files for each scenario
 5. Use the training and evaluation code provided in each sub-folders
 
 If you have any questions regarding the code and used dataset, please contact [Gouranga Charan](mailto:gcharan@asu.edu?subject=[GitHub]%20Beam%20prediction%20implementation).
